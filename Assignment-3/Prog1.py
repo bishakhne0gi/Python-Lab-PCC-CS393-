@@ -1,0 +1,6 @@
+n1=input("Enter 1st num: ")
+n2=input("Enter 2nd num: ")
+n3=input("Enter 3rd num: ")
+n2=max(n1,n2)
+n3=max(n3,n2)
+print(n3)
